@@ -3,7 +3,7 @@
 **RAHGRec** (**R**ole-**A**ware **H**yper**G**raph **Rec**ommendation) is a role-aware hypergraph learning framework for **third-party library (TPL) recommendation** that integrates **knowledge graph semantics** within the **Python software ecosystem**.
 
 **Paper title:**  
-*Role-Aware Hypergraph Modeling for Third-Party Library Recommendation with Knowledge Graph Semantics in Python Ecosystem*
+*RAHGRec: A Role-Aware Hypergraph-Based Framework for Project–Library Recommendation in Python Ecosystem with Knowledge-Graph Relations*
 
 ---
 
