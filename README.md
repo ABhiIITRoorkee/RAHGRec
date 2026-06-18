@@ -21,13 +21,6 @@ RAHGRec/
 │   │   ├── Readme.txt
 │   │   └── readme.md
 │   ├── result/
-│   ├── t01_recommendation_5.csv
-│   ├── t01_recommendation_10.csv
-│   ├── t01_recommendation_15.csv
-│   ├── t01_recommendation_20.csv
-│   ├── t02_recommendation_10.csv
-│   ├── t02_recommendation_15.csv
-│   └── t02_recommendation_20.csv
 ├── RAHGREC.py
 ├── main.py
 ├── loader_base.py
